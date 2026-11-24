@@ -1,0 +1,7 @@
+kit/
+kit-extract/
+competition.json
+requirements.json
+/output/
+transcripts.tar.gz
+node_modules/
